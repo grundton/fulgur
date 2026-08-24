@@ -1,3 +1,6 @@
+
+![The keyboard patch](img.jpg)
+
 # fulgur
 Keyboard-controlled non-power-of-too step sequencer in Pure Data 
 
@@ -17,7 +20,7 @@ You can enter which steps to select with the following layout (uses the German k
 
 You can switch instruments by selecting Shift + (1/q/a/<) for the left and Shift (ß/ü/ä/-) for the right.
 
-YOU CAN CHANGE ALL OF THESE ONCE YOU OPEN THE PATCH! Simply look at which key has which number and change them in the select structure on the top of the page.
+YOU CAN CHANGE ALL OF THESE ONCE YOU OPEN THE PATCH CALLED "keyboard.pd"! Simply look at which key has which number and change them in the select structure on the top of the page.
 [step $1< is the according step, [inst1< and so on select a new instrument.
 
 [L</[R< (which for me are activated with Shift + y/x (left) and Shift + m/) have the ability to disable steps from the left or the right.
