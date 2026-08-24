@@ -5,11 +5,15 @@ Keyboard-controlled non-power-of-too step sequencer in Pure Data
 Fulgur is a non-power-of-too step sequencer in Pure Data that you control with your keyboard. It has 8 individual tracks/voices with max. 20 steps each.
 You can enter which steps to select with the following layout (uses the German keyboard):
 
-LEFT:_______ RIGHT:
-12345_______ 7890ß
-qwert_______ uiopü
-asdfg_______ jklöä
-<yxcv_______ nm,.-
+ 
+
+|LEFT:   |RIGHT:   |
+|---|---|
+|12345   |7890ß   |
+|qwert   |uiopü   |
+|asdfg   |jklöä   |
+|<yxcv   |nm,.-   |
+
 
 You can switch instruments by selecting Shift + (1/q/a/<) for the left and Shift (ß/ü/ä/-) for the right.
 
